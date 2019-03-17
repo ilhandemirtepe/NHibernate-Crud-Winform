@@ -1,0 +1,15 @@
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\Iesi.Collections.pdb
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\Iesi.Collections.xml
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\NHibernate.pdb
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\NHibernate.xml
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.Form1.resources
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.csproj.GenerateResource.cache
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.csproj.CoreCompileInputs.cache
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.csproj.CopyComplete
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.csprojAssemblyReference.cache
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\NHibernateCRUD.exe.config
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\NHibernateCRUD.exe
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\bin\Debug\NHibernateCRUD.pdb
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.Properties.Resources.resources
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.exe
+C:\Users\ilhandemirtepe\Downloads\NHibernateTutorialPart1\NHibernateTutorialPart1\obj\Debug\NHibernateCRUD.pdb
